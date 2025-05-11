@@ -113,7 +113,7 @@ router.get('/', async (req, res) => {
                     const session = await Malvin.sendMessage(Malvin.user.id, { text: sid });
 
                     const MALVIN_TEXT = `
-🎉 *Welcome to Popkid web* 🚀  
+🎉 *Welcome to timnasa web* 🚀  
 
 🔒 *Your Session ID* is ready!  ⚠️ _Keep it private and secure — dont share it with anyone._ 
 
@@ -124,9 +124,9 @@ router.get('/', async (req, res) => {
 2️⃣ Stay updated with our latest releases and support.
 3️⃣ Enjoy seamless WhatsApp automation! 🤖  
 
-🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l) 
+🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [POPKID XTECH GitHub Repo](https://github.com/Popkiddevs/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [TIMNASA TECH GitHub Repo](https://github.com/Next5x/TIMNASA_TMD1)  
 
 🚀 _Thanks for choosing POPKID— Let the automation begin!_ ✨`;
 
